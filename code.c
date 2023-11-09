@@ -9,5 +9,5 @@
 
 int main(void)
 {
-    printf("Hello Wolf\n");
+    printf("Hello Woof\n");
 }
